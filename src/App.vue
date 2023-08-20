@@ -9,6 +9,7 @@ console.log(str)
 </script>
 <style lang="scss" scoped>
 .box {
-  width: 200px;
+  width: 200px;   
+  height: 100px;
 }
 </style>
