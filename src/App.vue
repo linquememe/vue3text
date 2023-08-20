@@ -11,5 +11,6 @@ console.log(str)
 .box {
   width: 200px;   
   height: 100px;
+  font-size: 18px;
 }
 </style>
