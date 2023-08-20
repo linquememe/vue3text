@@ -10,7 +10,8 @@ console.log(str)
 <style lang="scss" scoped>
 .box {
   width: 200px;   
-  height: 100px;
+  height: 100px        ;
   font-size: 18px;
+  columns: 11;
 }
 </style>
